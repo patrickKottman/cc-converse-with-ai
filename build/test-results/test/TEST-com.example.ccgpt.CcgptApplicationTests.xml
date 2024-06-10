@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.ccgpt.CcgptApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-10T09:04:16" hostname="BA92-QFY0TJVW5J" time="1.149">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.ccgpt.CcgptApplicationTests" time="1.149"/>
+  <system-out><![CDATA[11:04:14.175 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.ccgpt.CcgptApplicationTests]: CcgptApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+11:04:14.323 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.ccgpt.CcgptApplication for test class com.example.ccgpt.CcgptApplicationTests
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.0)
+
+2024-06-10T11:04:14.961+02:00  INFO 6566 --- [ccgpt] [    Test worker] c.example.ccgpt.CcgptApplicationTests    : Starting CcgptApplicationTests using Java 17.0.9 with PID 6566 (started by patrickkottman in /Users/patrickkottman/Documents/GitHub/cc-converse-with-ai)
+2024-06-10T11:04:14.963+02:00  INFO 6566 --- [ccgpt] [    Test worker] c.example.ccgpt.CcgptApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-06-10T11:04:16.872+02:00  INFO 6566 --- [ccgpt] [    Test worker] c.example.ccgpt.CcgptApplicationTests    : Started CcgptApplicationTests in 2.389 seconds (process running for 3.91)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
